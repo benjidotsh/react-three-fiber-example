@@ -20,7 +20,6 @@
     "url": "https://github.com/benjiJanssens/react-three-fiber-example/issues",
     "email": "benji.janssens@gmail.com"
   },
-  "homepage": "https://github.com/benjiJanssens/react-three-fiber-example#readme",
   "dependencies": {
     "@react-three/drei": "^3.8.2",
     "@testing-library/jest-dom": "^5.11.9",
